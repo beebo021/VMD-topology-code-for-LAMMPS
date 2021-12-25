@@ -1,0 +1,1 @@
+# VMD-topology-code-for-LAMMPS
