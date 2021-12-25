@@ -1,0 +1,13 @@
+#Simply copy and paste code as written#
+
+cd ../../..
+
+cd Users/Owner/Desktop
+
+topo retypebonds
+
+topo guessangles
+
+topo guessdihedrals
+
+topo writelammpsdata data.data full
